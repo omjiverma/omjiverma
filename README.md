@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on any Data Science Related Project
-- 📫 How to reach me - https://datatechy.xyz/contact
+- 📫 How to reach me - linkedin.com/in/omjiverma
 
 <!---
 omjiverma/omjiverma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
