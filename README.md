@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omjidvlpr&label=Profile%20views&color=0e75b6&style=flat" alt="omjidvlpr" /> </p>
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently looking for a **Job Opportunity**
 
 - 💬 Ask me about **Python, Data Visualization, Machine Learning, Deep Learning**
 
