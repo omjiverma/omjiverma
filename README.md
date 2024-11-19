@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p><em>M.Tech Student in Embedded Systems at <a href="https://mnit.ac.in">MNIT Jaipur</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </br> Learning Focus: AVR Microcontroller, Computer Organization, C and C++</em></p>
+<p><em>M.Tech Student in Embedded Systems at <a href="https://mnit.ac.in">MNIT Jaipur</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> </br> Learning Focus: AVR Microcontroller, ARM Processor, C and C++</em></p>
 
 
 ## 🌐 Socials:
